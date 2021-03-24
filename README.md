@@ -1,4 +1,9 @@
 ### Hi there 👋
+🎉SCNU计算机大二萌新
+🙏..
+
+
+
 
 <!--
 **lclbm/lclbm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
